@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Now:Studying
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Study<br>Moment.
+#tagline:          'A Jekyll theme'
+description:      'Data Science / Machine Learning / Deep Learning'
 url:              https://na00mi.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
