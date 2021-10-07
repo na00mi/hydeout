@@ -73,7 +73,7 @@ feedforward NNLM 구조랑 비슷한데, 비선형 hidden layer를 제거하고 
 
 CBOW모델은 bag-of-words와 다르게 문맥의 continuous distributed representation을 사용함. 
 
-![Untitled](Efficient%20Estimation%20of%20Word%20Representations%20in%20Ve%208f6b9749d07842edbf079522060bc032/Untitled.png)
+![Untitled](/assets/css/images/Efficient Estimation of Word Representations in Ve 8f6b9749d07842edbf079522060bc032/Untitled 1.png)
 
 ![Untitled](Efficient%20Estimation%20of%20Word%20Representations%20in%20Ve%208f6b9749d07842edbf079522060bc032/Untitled%201.png)
 
