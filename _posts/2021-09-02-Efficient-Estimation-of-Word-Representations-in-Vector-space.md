@@ -75,7 +75,7 @@ CBOW모델은 bag-of-words와 다르게 문맥의 continuous distributed represe
 
 ![Untitled](/assets/css/images/Efficient Estimation of Word Representations in Ve 8f6b9749d07842edbf079522060bc032/Untitled 1.png)
 
-![Untitled](Efficient%20Estimation%20of%20Word%20Representations%20in%20Ve%208f6b9749d07842edbf079522060bc032/Untitled%201.png)
+![Untitled](/assets/css/images/Efficient Estimation of Word Representations in Ve 8f6b9749d07842edbf079522060bc032/Untitled 2.png)
 
 input layer에서 projection layer로 갈 때 가중치 행렬을 사용하는데, input의 원핫 벡터와 가중치 행렬이 곱해져서 생긴 결과로 벡터들이 projection layer에서 평균이 구해지게 됨. 그리고 이 평균 벡터는 두번째 가중치 행렬 W와 곱해지고 결과적으로 원핫 벡터들과 동일한 V 차원의 벡터가 나옴. 여기서는 4. 이 벡터에 대해서 softmax 함수를 적용하면 최종적으로 score vector가 나오게 됨. 이 값은 j 번째 단어가 중심 단어일 확률을 나타냄. cross entropy를 이용해서 오류를 측정. 
 
